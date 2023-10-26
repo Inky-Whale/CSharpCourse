@@ -16,6 +16,7 @@ namespace Classes
             set { _firstName = value; }
         }
 
+        
         public string LastName { get; set; }
         public string City { get; set; }
     }
